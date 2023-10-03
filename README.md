@@ -5,7 +5,7 @@ I'm a Systems Analysis student at Fatec and Tech lover. Main interests: Backend 
 
 **About Me**
 
-- 💼 Chatbot Developer at [UOL Inc.](https://compass.uol/pt/home/)
+- 💼 Chatbot Developer at XP Inc.
 
 - ❤️ I Love typing in javascript/typescript
 
