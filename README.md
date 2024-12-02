@@ -5,8 +5,6 @@ I'm a Systems Analysis student at Fatec and Tech lover. Main interests: Backend 
 
 **About Me**
 
-- 💼 Chatbot Developer at XP Inc.
-
 - ❤️ I Love typing in javascript/typescript
 
 - 📚 Currently Im studying Asp.Net and C#
