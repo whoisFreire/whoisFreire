@@ -1,13 +1,13 @@
 <h1 align="center">
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
  Hi, I'm Leonardo Freire</a></h1>
-I'm a Systems Analysis student at Fatec and Tech lover. Main interests: Backend Development and data science.
+I'm a Systems Analysis student at PUCPR and Tech lover. Main interests: Backend Development and data science.
 
 **About Me**
 
 - ❤️ I Love typing in javascript/typescript
 
-- 📚 Currently Im studying Asp.Net and C#
+- 📚 Currently Im improving in backend with Typescript with NestJS
 
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](	https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -18,6 +18,3 @@ I'm a Systems Analysis student at Fatec and Tech lover. Main interests: Backend 
 ![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
-
-| <a href="https://github.com/whoisFreire/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=whoisFreire&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Leonardo Freire's github stats" /></a> | <a href="https://github.com/whoisFreire/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoisFreire&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
