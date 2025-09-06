@@ -21,11 +21,8 @@ class Skills extends Desenvolvedor {
   frameworks = ["NestJS", "AWS", "Blip"];
 }
 ```
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=whoisfreire&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
-
-- ❤️ I Love typing in javascript/typescript
-
-- 📚 Currently Im improving in backend with Typescript with NestJS
 
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](	https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
