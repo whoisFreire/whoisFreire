@@ -3,26 +3,25 @@
  Hi, I'm Leonardo Freire</a></h1>
 I'm a Systems Analysis student at PUCPR and Tech lover. Main interests: Backend Development and data science.
 
-**About Me**
+## About Me
 
 ```js
-import Desenvolvedor from "whoisfreire";
+import Developer from "whoisfreire";
 
-class SobreMim extends Desenvolvedor {
-  nome = "Leonardo Freire";
-  area = "analista Chatbot Sr.";
-  trabalho = "Skeps";
-  local = "Brazil";
+class AboutMe extends Developer {
+  name = "Leonardo Freire";
+  area = "Sr. Chatbot Analist";
+  work = "Skeps";
+  from = "Brazil";
 }
 
-class Skills extends Desenvolvedor {
-  linguagens = ["Typescript", "Python", "C#"];
-  bibliotecas = ["Fastify"];
+class Skills extends Developer {
+  languages = ["Typescript", "Python", "C#"];
+  libs = ["Fastify"];
   frameworks = ["NestJS", "AWS", "Blip"];
 }
 ```
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=whoisfreire&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
-
+### My Skills
 
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](	https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -32,3 +31,10 @@ class Skills extends Desenvolvedor {
 ![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+
+
+### Github Stats 🚀
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=whoisfreire&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+
+
+
