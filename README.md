@@ -5,6 +5,24 @@ I'm a Systems Analysis student at PUCPR and Tech lover. Main interests: Backend 
 
 **About Me**
 
+```js
+import Desenvolvedor from "whoisfreire";
+
+class SobreMim extends Desenvolvedor {
+  nome = "Leonardo Freire";
+  area = "analista Chatbot Sr.";
+  trabalho = "Skeps";
+  local = "Brazil";
+}
+
+class Skills extends Desenvolvedor {
+  linguagens = ["Typescript", "Python", "C#"];
+  bibliotecas = ["Fastify"];
+  frameworks = ["NestJS", "AWS", "Blip"];
+}
+```
+
+
 - ❤️ I Love typing in javascript/typescript
 
 - 📚 Currently Im improving in backend with Typescript with NestJS
