@@ -10,15 +10,15 @@ import Developer from "whoisfreire";
 
 class AboutMe extends Developer {
   name = "Leonardo Freire";
-  area = "Sr. Chatbot Analist";
-  work = "Skeps";
+  area = "Sr. Software Engineer";
+  work = "Blip";
   from = "Brazil";
 }
 
 class Skills extends Developer {
   languages = ["Typescript", "Python", "C#"];
   libs = ["Fastify"];
-  frameworks = ["NestJS", "AWS", "Blip"];
+  frameworks = ["NestJS", "AWS", "Blip", ".NET"];
 }
 ```
 
